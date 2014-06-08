@@ -1,0 +1,194 @@
+CLUSTAL X (1.83) multiple sequence alignment
+
+
+chimpansee      MKAPAVLAPGILVLLFTLVQRSNGECKEALAKSEMNVNMKYQLPNFTAETPIQNVILHEH
+human           MKAPAVLAPGILVLLFTLVQRSNGECKEALAKSEMNVNMKYQLPNFTAETPIQNVILHEH
+macaca          ------------------------------------------------------------
+lemur           MKASAVLAPGILALLFALVQGSNGECQETLAKSEMNVKMKYQLPNFTAETPIQNVVLHEH
+Rat             ------------------------------------------------------------
+mouse           MKAPTVLAPGILVLLLSLVQRSHGECKEALVKSEMNVNMKYQLPNFTAETPIQNVVLHGH
+                                                                            
+
+chimpansee      HIFLGATNYIYVLNEEDLQKVAEYKTGPVLEHPDCFPCQDCSSKANLSGGVWKDNINMAL
+human           HIFLGATNYIYVLNEEDLQKVAEYKTGPVLEHPDCFPCQDCSSKANLSGGVWKDNINMAL
+macaca          ------------------------------------------------------------
+lemur           HIYLGATNYIYVLNDEDLQKVSEYKTGPVLEHPDCFPCQNCNNNANLSGGIWKDNINMAL
+Rat             ------------------------------------------------------------
+mouse           HIYLGATNYIYVLNDKDLQKVSEFKTGPVLEHPDCLPCRDCSSKANSSGGVWKDNINMAL
+                                                                            
+
+chimpansee      VVDTYYDDQLISCGSVNRGTCQRHVFPHNHTADIQSEVHCIFSPQI-EEPSQCPDCVVSA
+human           VVDTYYDDQLISCGSVNRGTCQRHVFPHNHTADIQSEVHCIFSPQI-EEPSQCPDCVVSA
+macaca          ------------------------------------------------------------
+lemur           LVDRYYDDQLISCGSVNRGACQRHILPPDNPADIQSEVHCMFSPQADEEPSQCPDCVVSA
+Rat             ------------------------------------------------------------
+mouse           LVDTYYDDQLISCGSVNRGTCQRHVLPPDNSADIQSEVHCMFSPEE--ESGQCPDCVVSA
+                                                                            
+
+chimpansee      LGAKVLSSVKDRFINFFVGNTINSSYFPDHPLHSISVRRLKETKDGFMFLTDQSYIDVLP
+human           LGAKVLSSVKDRFINFFVGNTINSSYFPDHPLHSISVRRLKETKDGFMFLTDQSYIDVLP
+macaca          ------------------------------------------------------------
+lemur           LGAKVLLSEKERFINFFVGNTINSSYFPDHPLHSISVRRLKETQDGFKFLTDQSYIDVLP
+Rat             ------------------------------------------------------------
+mouse           LGAKVLLSEKDRFINFFVGNTINSSYPPGYSLHSISVRRLKETQDGFKFLTDQSYIDVLP
+                                                                            
+
+chimpansee      EFRDSYPIKYVHAFESNNFIYFLTVQRETLDAQTFHTRIIRFCSINSGLHSYMEMPLECI
+human           EFRDSYPIKYVHAFESNNFIYFLTVQRETLDAQTFHTRIIRFCSINSGLHSYMEMPLECI
+macaca          ------------------------------------------------------------
+lemur           EFRDSYPIKYVHAFESNHFIYFLTVQRETLDAQTFHTRIIRFCSMDSGLHSYMEMPLECI
+Rat             ------------------------------------------------------------
+mouse           EFLDSYPIKYIHAFESNHFIYFLTVQKETLDAQTFHTRIIRFCSVDSGLHSYMEMPLECI
+                                                                            
+
+chimpansee      LTEKRKKRSTKKEVFNILQAAYVSKPGAQLARQIGASLNDDILFGVFAQSKPDSAEPMDR
+human           LTEKRKKRSTKKEVFNILQAAYVSKPGAQLARQIGASLNDDILFGVFAQSKPDSAEPMDR
+macaca          ------------------------------------------------------------
+lemur           LTEKRRKRSTREEVFNILQAAYVSKPGAQLAKQIGASLNDDILFGVFAQSKPDSAEPMNR
+Rat             ------------------------------------------------------------
+mouse           LTEKRRKRSTREEVFNILQAAYVSKPGANLAKQIGASPSDDILFGVFAQSKPDSAEPVNR
+                                                                            
+
+chimpansee      SAMCAFPIKYVNDFFNKIVNKNNVRCLQHFYGPNHEHCFNRTLLRNSSSCEARRDEYRTE
+human           SAMCAFPIKYVNDFFNKIVNKNNVRCLQHFYGPNHEHCFNRTLLRNSSGCEARRDEYRTE
+macaca          ------------------------------------------------------------
+lemur           SAVCAFPIKYVNEFFNKIVNKNNVRCLQHFYGPHHEHCFNRTLLRNSSGCEVRRDEYRTE
+Rat             ------------------------------------------------------------
+mouse           SAVCAFPIKYVNDFFNKIVNKNNVRCLQHFYGPNHEHCFNRTLLRNSSGCEARSDEYRTE
+                                                                            
+
+chimpansee      FTTALQRVDLFMGQFSEVLLTSISTFIKGDLTIANLGTSEGRFMQVVVSRSGPSTPHVNF
+human           FTTALQRVDLFMGQFSEVLLTSISTFIKGDLTIANLGTSEGRFMQVVVSRSGPSTPHVNF
+macaca          ------------------------------------------------------------
+lemur           FTTALQRVDLFMGQFKQVLLTSISTFIKGDLTIANLGTSEGRFMQVVVSRSGSSTPHVNF
+Rat             ------------------------------------------------------------
+mouse           FTTALQRVDLFMGRLNQVLLTSISTFIKGDLTIANLGTSEGRFMQVVLSRTAHLTPHVNF
+                                                                            
+
+chimpansee      LLDSHPVSPEVIVEHTLNQNGYTLVVTGKKITKIPLNGLGCRHFQSCSQCLSAPPFVQCG
+human           LLDSHPVSPEVIVEHTLNQNGYTLVITGKKITKIPLNGLGCRHFQSCSQCLSAPPFVQCG
+macaca          ------------------------------------------------------------
+lemur           QLDSHPVSPEVIVEHPLNQNGYTLVVTGKKITKIPLNGLGCGHFQSCSQCLSAPSFVQCG
+Rat             ------------------------------------------------------------
+mouse           LLDSHPVSPEVIVEHPSNQNGYTLVVTGKKITKIPLNGLGCGHFQSCSQCLSAPYFIQCG
+                                                                            
+
+chimpansee      WCHDKCVRSEECLSGTWTQQICLPAIYKVFPNSAPLEGGTRLTICGWDFGFRRNNKFDLK
+human           WCHDKCVRSEECLSGTWTQQICLPAIYKVFPNSAPLEGGTRLTICGWDFGFRRNNKFDLK
+macaca          ------------------------------------------------------------
+lemur           WCHDKCVRSEECPSGTWTQEICLPAIHKVFPTSAPLEGGTMLTICGWDFGFRRNNKFDLK
+Rat             ------------------------------------------------------------
+mouse           WCHNQCVRFDECPSGTWTQEICLPAVYKVFPTSAPLEGGTVLTICGWDFGFRKNNKFDLR
+                                                                            
+
+chimpansee      KTRVLLGNESCTLTLSESTMNTLKCTVGPAMNKHFNMSIIISNGHGTTQYSTFSYVDPVI
+human           KTRVLLGNESCTLTLSESTMNTLKCTVGPAMNKHFNMSIIISNGHGTTQYSTFSYVDPVI
+macaca          ------------------------------------------------------------
+lemur           KTRVLLGNESCTLTLSESTTNMLKCTVGPAMNEHFNMSIIISYGRGTAQYSTFSYVDPVI
+Rat             ------------------------------------------------------------
+mouse           KTKVLLGNESCTLTLSESTTNTLKCTVGPAMSEHFNVSVIISNSRETTQYSAFSYVDPVI
+                                                                            
+
+chimpansee      TSISPKYGPMAGGTLLTLTGNYLNSGNSRHISIGGKTCTLKSVSNSILECYTPAQTISTE
+human           TSISPKYGPMAGGTLLTLTGNYLNSGNSRHISIGGKTCTLKSVSNSILECYTPAQTISTE
+macaca          ------------------------------------------------------------
+lemur           TSISPSYGPKAGGTLLTLAGKYLNSGNSRHISIGGKTCTLKSVSNSILECYTPAQIISTE
+Rat             ------------------------------------------------------------
+mouse           TSISPRYGPQAGGTLLTLTGKYLNSGNSRHISIGGKTCTLKSVSDSILECYTPAQTTSDE
+                                                                            
+
+chimpansee      FAVKLKIDLANRETSIFSYREDPIVYEIHPTKSFISGGSTITGVGKNLNSVSVPRMVINV
+human           FAVKLKIDLANRETSIFSYREDPIVYEIHPTKSFISGGSTITGVGKNLNSVSVPRMVINV
+macaca          ------------------------------------------------------------
+lemur           FPVKLKIDLANRETSSFSYREDPIVHEIHPTKSFVSGGSTITGVGKNLNSVSVPRMVIHV
+Rat             ------------------------------------------------------------
+mouse           FPVKLKIDLANRETSSFSYREDPVVYEIHPTKSFISGGSTITGIGKTLNSVSLPKLVIDV
+                                                                            
+
+chimpansee      HEAGRNFTVACQHRSNSEIICCTTPSLQQLNLQLPLKTKAFFMLDGILSKYFDLIYVHNP
+human           HEAGRNFTVACQHRSNSEIICCTTPSLQQLNLQLPLKTKAFFMLDGILSKYFDLIYVHNP
+macaca          ------------------------------------------------------------
+lemur           QEAGRNFTVACQHRSNSEIICCTTPSLQQLNLRLPLKTKAFFMLDGILSKYFDLIYVHNP
+Rat             ------------------------------------------------------------
+mouse           HEVGVNYTVACQHRSNSEIICCTTPSLKQLGLQLPLKTKAFFLLDGILSKHFDLTYVHNP
+                                                                            
+
+chimpansee      VFKPFEKPVMISMGNENVLEIKGNDIDPEAVKGEVLKVGNKSCENIHLHSEAVLCTVPND
+human           VFKPFEKPVMISMGNENVLEIKGNDIDPEAVKGEVLKVGNKSCENIHLHSEAVLCTVPND
+macaca          ------------------------------------------------------------
+lemur           VFKPFEKPVMISMGNENVLEIKGNDIDPEAVKGEVLKVGNKSCENIHSHSEAVLCTVPND
+Rat             ------------------------------------------------------------
+mouse           VFEPFEKPVMISMGNENVVEIKGNNIDPEAVKGEVLKVGNQSCESLHWHSGAVLCTVPSD
+                                                                            
+
+chimpansee      LLKLNSELNIEWKQAISSTVLGKVIVQPDQNFTGLIAGVVSISIALLLLLGFFLWLKKRK
+human           LLKLNSELNIEWKQAISSTVLGKVIVQPDQNFTGLIAGVVSISTALLLLLGFFLWLKKRK
+macaca          ------------------------------------------------------------
+lemur           LLKLNSELNIEWKQAVSSTILGKVIVQPDQNFTGLIVGVVSISIILLVLLGLFLWMKKRK
+Rat             ------------------------------------------------------------
+mouse           LLKLNSELNIEWKQAVSSTVLGKVIVQPDQNFAGLIIGAVSISVVVLLLSGLFLWMRKRK
+                                                                            
+
+chimpansee      QIKDLGSELVRYDARVHTPHLDRLVSARSVSPTTEMVSNESVDYRATFPEDQFPNSSQNG
+human           QIKDLGSELVRYDARVHTPHLDRLVSARSVSPTTEMVSNESVDYRATFPEDQFPNSSQNG
+macaca          ------------------------------------------------------------
+lemur           QIKDLGSELVRYDARVHTPHLDRLVSARSVSPTTEMVSNESVDYRATFPEDQFPNSSQNG
+Rat             ------------------------------------------------------------
+mouse           -HKDLGSELVRYDARVHTPHLDRLVSARSVSPTTEMVSNESVDYRATFPEDQFPNSSQNG
+                                                                            
+
+chimpansee      SCRQVQYPLTDMSPILTSGDSDISSPLLQNTVHIDLSALNPELVQAVQHVVIGPSSLIVH
+human           SCRQVQYPLTDMSPILTSGDSDISSPLLQNTVHIDLSALNPELVQAVQHVVIGPSSLIVH
+macaca          ------------------------------------------------------------
+lemur           SCRQVQYPLTDLSPILTSGDSDISSPLLQNTVHIDLSALNPELVQAVQHVVIGPSSLIVH
+Rat             ------------------------------------------------------------
+mouse           ACRQVQYPLTDLSPILTSGDSDISSPLLQNTVHIDLSALNPELVQAVQHVVIGPSSLIVH
+                                                                            
+
+chimpansee      FNEVIGRGHFGCVYHGTLLDNDGKKIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNV
+human           FNEVIGRGHFGCVYHGTLLDNDGKKIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNV
+macaca          --------------------------------------------------------HPNV
+lemur           FNEVIGRGHFGCVYHGTLLDNDGKKIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNV
+Rat             --------------------------------------------------------HPNV
+mouse           FNEVIGRGHFGCVYHGTLLDNDGKKIHCAVKSLNRITDIEEVSQFLTEGIIMKDFSHPNV
+                                                                        ****
+
+chimpansee      LSLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKK
+human           LSLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKK
+macaca          LSLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKK
+lemur           LSLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKK
+Rat             LSLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKK
+mouse           LSLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKK
+                ************************************************************
+
+chimpansee      FVHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQK
+human           FVHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQK
+macaca          FVHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQK
+lemur           FVHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQK
+Rat             FVHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQK
+mouse           FVHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQK
+                ************************************************************
+
+chimpansee      FTTKSDVWSFGVLLWELMTRGAPPYPDVNTFDITVYLLQGRRLLQPEYCPDPLYEVMLKC
+human           FTTKSDVWSFGVLLWELMTRGAPPYPDVNTFDITVYLLQGRRLLQPEYCPDPLYEVMLKC
+macaca          FTTT--------------------------------------------------------
+lemur           FTTKSDVWSFGVLLWELMTRGAPPYPDVNTFDITVYLLQGRRLLQPEYCPDPLYEVMLKC
+Rat             FTTT--------------------------------------------------------
+mouse           FTTKSDVWSFGVLLWELMTRGAPPYPDVNTFDITIYLLQGRRLLQPEYCPDALYEVMLKC
+                ***.                                                        
+
+chimpansee      WHPKAEMRPSFSELVSRISAIFSTFIGEHYVHVNATYVNVKCVAPYPSLLSSEDNADDEV
+human           WHPKAEMRPSFSELVSRISAIFSTFIGEHYVHVNATYVNVKCVAPYPSLLSSEDNADDEV
+macaca          ------------------------------------------------------------
+lemur           WHPKAEMRPSFSELVSRISAIFSTFIGEHYVHVNATYVNVKCVAPYPSLLSSQDNINGEG
+Rat             ------------------------------------------------------------
+mouse           WHPKAEMRPSFSELVSRISSIFSTFIGEHYVHVNATYVNVKCVAPYPSLLPSQDNIDGEG
+                                                                            
+
+chimpansee      DTRPASFWETS
+human           DTRPASFWETS
+macaca          -----------
+lemur           DT---------
+Rat             -----------
+mouse           NT---------
+                           

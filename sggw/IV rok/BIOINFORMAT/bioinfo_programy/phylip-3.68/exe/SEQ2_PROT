@@ -1,0 +1,2703 @@
+
+Protein parsimony algorithm, version 3.68
+
+
+Data set # 1:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2169.000
+
+
+Data set # 2:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2123.000
+
+
+Data set # 3:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2214.000
+
+
+Data set # 4:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2090.000
+
+
+Data set # 5:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2118.000
+
+
+Data set # 6:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2133.000
+
+
+Data set # 7:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2185.000
+
+
+Data set # 8:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2257.000
+
+
+Data set # 9:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2153.000
+
+
+Data set # 10:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2145.000
+
+
+Data set # 11:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2118.000
+
+
+Data set # 12:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2263.000
+
+
+Data set # 13:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2096.000
+
+
+Data set # 14:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2140.000
+
+
+Data set # 15:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2142.000
+
+
+Data set # 16:
+
+
+     2 trees in all found
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2120.000
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2120.000
+
+
+Data set # 17:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2141.000
+
+
+Data set # 18:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2103.000
+
+
+Data set # 19:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2188.000
+
+
+Data set # 20:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2184.000
+
+
+Data set # 21:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2099.000
+
+
+Data set # 22:
+
+
+     2 trees in all found
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2074.000
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2074.000
+
+
+Data set # 23:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2128.000
+
+
+Data set # 24:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2265.000
+
+
+Data set # 25:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2226.000
+
+
+Data set # 26:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2111.000
+
+
+Data set # 27:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2170.000
+
+
+Data set # 28:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2112.000
+
+
+Data set # 29:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2152.000
+
+
+Data set # 30:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2159.000
+
+
+Data set # 31:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2113.000
+
+
+Data set # 32:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2113.000
+
+
+Data set # 33:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2108.000
+
+
+Data set # 34:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2185.000
+
+
+Data set # 35:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2095.000
+
+
+Data set # 36:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2094.000
+
+
+Data set # 37:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2077.000
+
+
+Data set # 38:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2102.000
+
+
+Data set # 39:
+
+
+     3 trees in all found
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2120.000
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2120.000
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2120.000
+
+
+Data set # 40:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2118.000
+
+
+Data set # 41:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2198.000
+
+
+Data set # 42:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2087.000
+
+
+Data set # 43:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2146.000
+
+
+Data set # 44:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2086.000
+
+
+Data set # 45:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2047.000
+
+
+Data set # 46:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2136.000
+
+
+Data set # 47:
+
+
+     2 trees in all found
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2188.000
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2188.000
+
+
+Data set # 48:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2125.000
+
+
+Data set # 49:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2052.000
+
+
+Data set # 50:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2120.000
+
+
+Data set # 51:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2186.000
+
+
+Data set # 52:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2174.000
+
+
+Data set # 53:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2176.000
+
+
+Data set # 54:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2181.000
+
+
+Data set # 55:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2124.000
+
+
+Data set # 56:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2170.000
+
+
+Data set # 57:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2133.000
+
+
+Data set # 58:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2189.000
+
+
+Data set # 59:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2072.000
+
+
+Data set # 60:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2158.000
+
+
+Data set # 61:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2080.000
+
+
+Data set # 62:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2201.000
+
+
+Data set # 63:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2137.000
+
+
+Data set # 64:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2130.000
+
+
+Data set # 65:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2117.000
+
+
+Data set # 66:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2048.000
+
+
+Data set # 67:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2182.000
+
+
+Data set # 68:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2079.000
+
+
+Data set # 69:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2168.000
+
+
+Data set # 70:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2209.000
+
+
+Data set # 71:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2151.000
+
+
+Data set # 72:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2156.000
+
+
+Data set # 73:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+           +--5  
+        +--4  +--gi|1180892
+        !  !  
+     +--3  +-----gi|7397317
+     !  !  
+  +--2  +--------gi|1165173
+  !  !  
+  1  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2116.000
+
+
+Data set # 74:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2219.000
+
+
+Data set # 75:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2172.000
+
+
+Data set # 76:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2223.000
+
+
+Data set # 77:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2126.000
+
+
+Data set # 78:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2173.000
+
+
+Data set # 79:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2032.000
+
+
+Data set # 80:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2174.000
+
+
+Data set # 81:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2182.000
+
+
+Data set # 82:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2126.000
+
+
+Data set # 83:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2061.000
+
+
+Data set # 84:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2150.000
+
+
+Data set # 85:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2069.000
+
+
+Data set # 86:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2112.000
+
+
+Data set # 87:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2157.000
+
+
+Data set # 88:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2094.000
+
+
+Data set # 89:
+
+
+One most parsimonious tree found:
+
+
+
+
+           +-----gi|1180892
+        +--4  
+        !  !  +--gi|1960069
+     +--3  +--5  
+     !  !     +--gi|7397317
+  +--2  !  
+  !  !  +--------gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2157.000
+
+
+Data set # 90:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2216.000
+
+
+Data set # 91:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2105.000
+
+
+Data set # 92:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2093.000
+
+
+Data set # 93:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2173.000
+
+
+Data set # 94:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2151.000
+
+
+Data set # 95:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2177.000
+
+
+Data set # 96:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2164.000
+
+
+Data set # 97:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2146.000
+
+
+Data set # 98:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2154.000
+
+
+Data set # 99:
+
+
+One most parsimonious tree found:
+
+
+
+
+        +--------gi|1180892
+        !  
+     +--4     +--gi|1960069
+     !  !  +--5  
+     !  +--3  +--gi|7397317
+  +--2     !  
+  !  !     +-----gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2120.000
+
+
+Data set # 100:
+
+
+One most parsimonious tree found:
+
+
+
+
+              +--gi|1960069
+        +-----5  
+        !     +--gi|1180892
+     +--4  
+     !  !     +--gi|7397317
+  +--2  +-----3  
+  !  !        +--gi|1165173
+  1  !  
+  !  +-----------gi|2518237
+  !  
+  +--------------gi|1094858
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2028.000
+

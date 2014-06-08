@@ -1,0 +1,52 @@
+
+
+
+     17:
+1)
+program PCR
+5 minut denaturacja w 94stc C
+
+poprzednie 1
+
+2. denaturacja 60 sek w 94 stc C
+
+3.Przy³¹czanie starterów 60 sek w 55 stc C
+
+4. wyd³u¿anie 2 min w 72 stc C
+
+5. ostateczne wydluzanie 10 minut w 72 stc C
+
+6. Och³odzenie do 4 stc C
+
+
+
+       37. 
+
+Sonda znakowana jest DIG. Przeciwcialo ja rozpoznajace polaczone jest z alkaliczna fosfataza. Laczy sie do sondy, dodajemy BCIP i NBT, ktore fosfataza przeksztalca w barwny produkt. Miejsca gdzie znajduje sie okreslona sekwencja sie wybarwiaja
+
+
+
+     28.
+
+beta-merkapt. rozwala mostki dwusiarczkowe i tym samym denaturuje bialka
+
+pvp laczy sie z polifenolami
+
+oba umozliwiaja wytracenie skladnikow komorkowych innych niz kwasy nukleinowe
+
+
+       32. 
+
+wraz z RNA wytracilo sie duzo soli przy pomocy alkoholu je doczyscilismy kwas
+
+
+
+       33.
+
+w pH nizszym rowniez DNA przeslo by do fazy wodnej
+
+
+              34.
+
+elektroforeze kwasow RNA przeprowadzamy w warunkach denaturujacych poniewaz moga miejscowo tworzyc struktyry przestrzenne, a zmiana ich konformacji zaburzala by ich migracje w zelu i zaciemniala wynik
+
